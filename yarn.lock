@@ -5931,9 +5931,9 @@ luxon@^1.26.0:
   resolved "https://registry.yarnpkg.com/luxon/-/luxon-1.28.0.tgz#e7f96daad3938c06a62de0fb027115d251251fbf"
   integrity sha512-TfTiyvZhwBYM/7QdAVDh+7dBTBA29v4ik0Ce9zda3Mnf8on1S5KJI8P2jKFZ8+5C0jhmr0KwJEO/Wdpm0VeWJQ==
 
-"lyra@github:TryGhost/lyra#master":
+"lyra@github:TryGhost/lyra#main":
   version "1.0.0"
-  resolved "https://codeload.github.com/TryGhost/lyra/tar.gz/f054a25a3458bbdba87d9537b166bedf3a1da09e"
+  resolved "https://codeload.github.com/TryGhost/lyra/tar.gz/99f69471842eb360a4a1e2bdcb49e2fb83717baf"
 
 mailgun-js@0.22.0, mailgun-js@^0.22.0:
   version "0.22.0"
